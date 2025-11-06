@@ -41,5 +41,5 @@ I love learning by creating projects that make everyday tasks easier and more ef
 ---
 
 ### 🖥️ GitHub Stats (Optional)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashrajGhadage&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashrajGhadage&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkxLucifer&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxLuciferv&layout=compact&theme=tokyonight)
