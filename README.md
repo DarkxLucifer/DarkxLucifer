@@ -31,8 +31,8 @@ I love learning by creating projects that make everyday tasks easier and more ef
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](#) *(add your profile link)*  
-- 🐦 [Twitter / X](#) *(optional)*  
-- 📧 Email: *yourname@email.com*  
+- 🐦 [Telegram](#) *((https://t.me/hacker_4565))*  
+- 📧 Email: *yashrajghadage998@gmail.com*  
 
 ---
 
