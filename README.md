@@ -30,8 +30,8 @@ I love learning by creating projects that make everyday tasks easier and more ef
 ---
 
 ## 📫 Connect With Me
-- 🐦 [Telegram](#) (https://t.me/hacker_4565)
-- 📧 Email: *yashrajghadage998@gmail.com*  
+- 🐦 [Telegram](#) *https://t.me/hacker_4565*
+- 📧 Email: *yashrajghadage9898@gmail.com*  
 
 ---
 
