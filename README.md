@@ -1,44 +1,145 @@
-# 👋 Hi, I'm Yashraj Ghadage  
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Yashraj%20Ghadage&fontSize=40&fontColor=00ff00&animation=fadeIn"/>
+</p>
 
-🎓 **College Student | Aspiring Developer | Tech Enthusiast from India**  
+<h1 align="center">🧠 Yashraj Ghadage</h1>
 
-I'm currently learning **Python**, **C**, and **C++** — exploring how to use programming for **automation**, scripting, and building useful tools.  
-I love learning by creating projects that make everyday tasks easier and more efficient.  
+<p align="center">
+Cybersecurity • AI Developer • Python Automation • Linux Enthusiast
+</p>
 
----
-
-## 🚀 What I'm Learning
-- 🐍 **Python** for automation, scripting, and backend logic  
-- 💻 **C / C++** for understanding core programming and performance  
-- ⚙️ Exploring **Git**, **Linux**, and **VS Code** tools for better productivity  
-
----
-
-## 🔧 Tech Interests
-- 🤖 Automation & Scripting  
-- 🧠 Problem Solving & Logic Building  
-- 🗃️ File Handling and Data Processing  
-- 🌐 Exploring Open Source Projects  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;AI+Developer+in+Progress;Python+Automation+Engineer;Linux+Explorer;Future+Open+Source+Contributor"/>
+</p>
 
 ---
 
-## 🧩 Current Goals
-- Build small automation scripts in Python  
-- Strengthen data structures and algorithms skills  
-- Contribute to beginner-friendly open-source projects  
+# 🧠 Terminal Boot Screen
+
+```bash
+> booting developer profile...
+
+> user
+Yashraj Ghadage
+
+> role
+AI Developer | Cybersecurity Enthusiast
+
+> education
+Government College of Engineering Ratnagiri
+
+> languages
+Python
+C
+C++
+
+> interests
+Artificial Intelligence
+Cybersecurity
+Automation
+Linux Systems
+Open Source
+
+> system status
+learning... building... improving...
+```
 
 ---
 
-## 📫 Connect With Me
-- 🐦 [Telegram] :(#) *https://t.me/Darkxlucfier*
-- 📧 Email: *yashrajghadage9898@gmail.com*  
+# 🤖 AI + Cybersecurity Interests
+
+* Artificial Intelligence development
+* Python automation tools
+* Cybersecurity fundamentals
+* Linux systems & scripting
+* Open source contributions
 
 ---
 
-⭐️ *“The best way to learn coding is by building something useful every day.”*
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,github,vscode"/>
+</p>
 
 ---
 
-### 🖥️ GitHub Stats 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkxLucifer&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxLucifer&layout=compact&theme=tokyonight)
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DarkxLucifer&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxLucifer&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=DarkxLucifer&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkxLucifer&theme=react-dark"/>
+</p>
+
+---
+
+# 🧬 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkxLucifer&theme=github_dark"/>
+</p>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DarkxLucifer/DarkxLucifer/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Developer Portfolio
+
+🚀 Current focus areas:
+
+* Python automation tools
+* AI experiments and small ML projects
+* Cybersecurity learning labs
+* Linux productivity tools
+
+Future portfolio projects will be added here.
+
+---
+
+# 📫 Contact
+
+📧 [yashrajghadage9898@gmail.com](mailto:yashrajghadage9898@gmail.com)
+
+📱 Telegram
+https://t.me/Darkxlucfier
+
+---
+
+# 🧠 Developer Philosophy
+
+> “Build tools. Break systems. Understand how everything works.”
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DarkxLucifer&color=00ff00"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/>
+</p>
