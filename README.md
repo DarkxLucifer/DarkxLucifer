@@ -1,3 +1,11 @@
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DarkxLucifer/DarkxLucifer/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<!-- CYBERPUNK BANNER -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Yashraj%20Ghadage&fontSize=40&fontColor=00ff00&animation=fadeIn"/>
 </p>
@@ -8,51 +16,65 @@
 Cybersecurity • AI Developer • Python Automation • Linux Enthusiast
 </p>
 
+<!-- MATRIX TYPING -->
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner;AI+Developer+in+Progress;Python+Automation+Engineer;Linux+Explorer;Future+Open+Source+Contributor"/>
 </p>
 
 ---
 
-# 🧠 Terminal Boot Screen
+# 🧠 Hacker Terminal
 
 ```bash
-> booting developer profile...
+$ run developer_profile.sh
 
-> user
-Yashraj Ghadage
+user: yashraj_ghadage
+college: Government College of Engineering Ratnagiri
+role: AI Developer | Cybersecurity Learner
 
-> role
-AI Developer | Cybersecurity Enthusiast
+loading modules...
 
-> education
-Government College of Engineering Ratnagiri
+✔ python automation
+✔ cybersecurity
+✔ linux systems
+✔ open source
 
-> languages
-Python
-C
-C++
-
-> interests
-Artificial Intelligence
-Cybersecurity
-Automation
-Linux Systems
-Open Source
-
-> system status
-learning... building... improving...
+system status: learning... building... improving...
 ```
 
 ---
 
-# 🤖 AI + Cybersecurity Interests
+# 👨‍💻 About Me
 
-* Artificial Intelligence development
-* Python automation tools
-* Cybersecurity fundamentals
-* Linux systems & scripting
-* Open source contributions
+🎓 Computer Engineering Student
+🏫 Government College of Engineering Ratnagiri, India 🇮🇳
+
+I enjoy building tools and learning how systems work.
+
+Main interests:
+
+* 🤖 Artificial Intelligence
+* 🔐 Cybersecurity
+* 🐍 Python automation
+* 🐧 Linux systems
+* 🌍 Open source development
+
+---
+
+# 🤖 AI + Cybersecurity Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-AI%20Automation-blue?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-orange?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-red?style=for-the-badge&logo=hackthebox"/>
+
+<img src="https://img.shields.io/badge/Linux-Power%20User-black?style=for-the-badge&logo=linux"/>
+
+</p>
 
 ---
 
@@ -68,9 +90,9 @@ learning... building... improving...
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarkxLucifer&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DarkxLucifer&show_icons=true&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxLucifer&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxLucifer&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -79,12 +101,12 @@ learning... building... improving...
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=DarkxLucifer&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=DarkxLucifer&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkxLucifer&theme=react-dark"/>
@@ -92,14 +114,23 @@ learning... building... improving...
 
 ---
 
-# 🧬 3D Contribution Graph
+# 🧬 Contribution Skyline (Developer Analytics)
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkxLucifer&theme=github_dark"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkxLucifer&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarkxLucifer&theme=github_dark"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarkxLucifer&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarkxLucifer&theme=github_dark"/>
+</p>
+
+---
 # 🐍 Snake Contribution Animation
 
 <p align="center">
@@ -107,21 +138,16 @@ learning... building... improving...
 </p>
 
 ---
+# 🎯 Current Goals
 
-# 🌐 Developer Portfolio
-
-🚀 Current focus areas:
-
-* Python automation tools
-* AI experiments and small ML projects
-* Cybersecurity learning labs
-* Linux productivity tools
-
-Future portfolio projects will be added here.
+* Build Python automation tools
+* Learn cybersecurity fundamentals
+* Improve data structures & algorithms
+* Contribute to open source projects
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
 📧 [yashrajghadage9898@gmail.com](mailto:yashrajghadage9898@gmail.com)
 
@@ -132,7 +158,7 @@ https://t.me/Darkxlucfier
 
 # 🧠 Developer Philosophy
 
-> “Build tools. Break systems. Understand how everything works.”
+> “The best way to learn coding is by building something useful every day.”
 
 ---
 
