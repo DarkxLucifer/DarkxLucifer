@@ -43,7 +43,8 @@ system status: learning... building... improving...
 
 # 👨‍💻 About Me
 
-🎓 Computer Engineering Student
+🎓 Artificial intelligence and data science 
+
 🏫 Government College of Engineering Ratnagiri, India 🇮🇳
 
 I enjoy building tools and learning how systems work.
