@@ -20,7 +20,7 @@ Cybersecurity • AI Developer • Python Automation • Linux Enthusiast
 
 ---
 
-# 🧠 Hacker Terminal
+# 🧠 Terminal
 
 ```bash
 $ run developer_profile.sh
