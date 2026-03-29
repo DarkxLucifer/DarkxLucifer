@@ -20,10 +20,9 @@ Cybersecurity • AI Developer • Python Automation • Linux Enthusiast
 
 ---
 
-# 🧠 Terminal
+# 🧠 INFO
 
 ```bash
-$ run developer_profile.sh
 
 user: yashraj_ghadage
 college: Government College of Engineering Ratnagiri
@@ -116,7 +115,7 @@ Main interests:
 </p>
 
 ---
-# 🐍 Snake Contribution Animation
+# 🐍 Contribution 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/DarkxLucifer/DarkxLucifer/output/github-contribution-grid-snake.svg"/>
